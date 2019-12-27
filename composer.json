@@ -2,7 +2,7 @@
     "name": "cedcommerce/freshdesk-sdk",
     "description": "PHP SDK for the Freshdesk API (v2)",
     "type": "library",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "homepage": "https://github.com/mpclarkson/freshdesk-php-sdk",
     "keywords": ["freshdesk", "customer service", "support", "help desk", "api"],
     "license": "MIT",
